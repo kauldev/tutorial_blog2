@@ -1,0 +1,20 @@
+{
+  "name": "tutorial_blog_ng",
+  "version": "0.0.0",
+  "authors": [
+    "kauldev <kaul_dev@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "blogengine/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "html5-boilerplate": "~4.3.0"
+  }
+}
